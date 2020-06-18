@@ -1,0 +1,30 @@
+body{
+  background-color: aquamarine;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 1rem;
+  margin-top: 0;
+}
+label{
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+label:hover{
+  cursor: pointer;
+  color: maroon;
+  font-weight: 600;
+}
+.header{
+  background-color: maroon;
+  color: white;
+  padding: 1rem;
+}
+h4,
+b{
+  color: maroon;
+}
+img{
+  height: 12rem;
+}
+#infoBlock{
+  box-sizing: border-box;
+}
